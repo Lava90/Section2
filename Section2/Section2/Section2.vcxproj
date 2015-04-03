@@ -67,9 +67,15 @@
     <ClCompile Include="3Nadd1.cpp" />
     <ClCompile Include="AABB.cpp" />
     <ClCompile Include="approximate.cpp" />
+    <ClCompile Include="Daffodil.cpp" />
     <ClCompile Include="DataStat.cpp" />
+    <ClCompile Include="Decimal.cpp" />
     <ClCompile Include="Factorial.cpp" />
+    <ClCompile Include="HanXin.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Subsequence.cpp" />
+    <ClCompile Include="Testcpp.cpp" />
+    <ClCompile Include="Triangle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />

@@ -8,7 +8,11 @@ void nadd1();
 void approximate();
 void factorial();
 void datastat();
+void daffodil();
+void trangle();
 
+void test();
+void decimal();
 int main(){
 	//aabb();
 	//bbaa();
@@ -19,7 +23,12 @@ int main(){
 	freopen("input.txt", "r", stdin);
 	freopen("output.txt","w",stdout);
 #endif
-	datastat();
+	//datastat();
+	//daffodil();
+	//trangle();
+
+	//test();
+	decimal();
 	system("PAUSE");
 
 	return 0;
